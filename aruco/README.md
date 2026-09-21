@@ -5,3 +5,5 @@
 **Пример работы:**
 
 <img width="638" height="478" alt="Screenshot from 2026-04-04 19-19-01" src="https://github.com/user-attachments/assets/00f259e8-bbf3-4787-b9f7-7a2fba9ec979" />
+
+Расстояния определяются в мм
