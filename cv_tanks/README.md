@@ -15,3 +15,7 @@
 - Пробел - выстрел
 
 **Демонстрация работы**
+<p>
+  <img width="260" height="259" alt="Screencast-from-2026-09-16-23-01-31-compressed" src="https://github.com/user-attachments/assets/2315d468-3f73-448f-8da7-b032fd743a2b" />
+</p>
+
